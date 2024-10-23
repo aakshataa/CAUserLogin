@@ -2,16 +2,18 @@
 <project version="4">
   <component name="CheckStyle-IDEA" serialisationVersion="2">
     <checkstyleVersion>10.18.0</checkstyleVersion>
-    <scanScope>JavaOnly</scanScope>
+    <scanScope>Everything</scanScope>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
-      <option value="81b0df1c-04ff-43fe-be60-59755d051b33" />
+      <option value="f470bb59-0f38-4224-90ec-1bd73570bd71" />
     </option>
     <option name="locations">
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="f470bb59-0f38-4224-90ec-1bd73570bd71" type="PROJECT_RELATIVE" scope="Project Files" description="CAChecks">$PROJECT_DIR$/mystyle.xml</ConfigurationLocation>
         <ConfigurationLocation id="81b0df1c-04ff-43fe-be60-59755d051b33" type="PROJECT_RELATIVE" scope="All" description="CSC207 Checks">$PROJECT_DIR$/mystyle.xml</ConfigurationLocation>
+        <ConfigurationLocation id="9b1a0c33-fcde-4b9a-97e0-80024ec86b4c" type="LOCAL_FILE" scope="All" description="CSUserChecks">$PROJECT_DIR$/mystyle.xml</ConfigurationLocation>
       </list>
     </option>
   </component>
